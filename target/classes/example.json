@@ -1,0 +1,54 @@
+[
+  {
+    "id": "c8bb4230-7976-4d80-bea6-e92a9966b5f7",
+    "name": "Ted Lasso",
+    "cat": "Sports",
+    "releaseDate": "2020-12-11",
+    "actors": [
+      {
+        "id": "42d19db5-ff6d-45ab-99d6-f90d2b9844c1",
+        "fullName": "Jason Sudeikis"
+      },
+      {
+        "id": "33bb739b-70ef-4363-90f1-21187c034d68",
+        "fullName": "Brendan Hunt"
+      }
+    ]
+  },
+  {
+    "id": "4ad8164d-b37e-47c4-8dc9-7fec2794acfe",
+    "title": "Silicon Valley",
+    "cat": "IT",
+    "releaseDate": "2014-06-06",
+    "actors": [
+      {
+        "id": "ca41d673-bbe3-44b9-b19e-c8b9cb9e13a1",
+        "fullName": "Thomas Middleditch"
+      },
+      {
+        "id": "0b27acc6-6cd3-430e-9e14-1af4bfb0c100",
+        "fullName": "Kumail Nanjiani"
+      }
+    ]
+  },
+  {
+    "id": "02a3f325-5967-487c-a727-8dcd49a3d2c1",
+    "title": "The IT Crowd",
+    "cat": "IT",
+    "releaseDate": "2006-02-12",
+    "actors": [
+      {
+        "id": "6f838691-2b08-47b1-ba5c-22f0d17519ea",
+        "fullName": "Chris O'Dowd"
+      },
+      {
+        "id": "e9067b38-2480-46d7-afe4-b053ce508280",
+        "fullName": "Richard Ayoade"
+      },
+      {
+        "id": "8d41c5af-1476-4644-b53e-c3273bb0e6e6",
+        "fullName": "Katherine Parkinson"
+      }
+    ]
+  }
+]
